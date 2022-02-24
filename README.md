@@ -1,2 +1,2 @@
 # nodeColouring
-A python code for CSP problem for AI
+A CSP problem for AI
